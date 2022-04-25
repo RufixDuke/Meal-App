@@ -1,0 +1,13 @@
+.MealBuilder {
+    display: grid;
+    width: auto;
+    column-gap: 20px;
+    grid-template-columns: auto auto;
+}
+
+input {
+    width: 130px;
+    padding: 14px 28px;
+    border-radius: 10px;
+    border: 1px solid black
+}
